@@ -9,7 +9,7 @@
 # Screenshots
 
 <div>
-<img src="https://user-images.githubusercontent.com/87338764/230534537-098c259b-21f6-4dc8-b258-119ff6c37d53.jpg" width ="250" height="350">
+<img src="https://user-images.githubusercontent.com/87338764/230534537-098c259b-21f6-4dc8-b258-119ff6c37d53.jpg" width ="250" height="400">
 <img src="https://user-images.githubusercontent.com/87338764/230534724-4dc289cc-249a-48a1-9d40-27b74766d6e0.jpg" width "250" height="350">
 <img src="https://user-images.githubusercontent.com/87338764/230534725-e54e1c70-e67f-4550-8b56-48324361c1a1.jpg" width "250" height="350">
 <img src="https://user-images.githubusercontent.com/87338764/230534731-4c7a6f77-f91d-499f-98a8-244e375bb54c.jpg" width "250" height="350">
