@@ -8,5 +8,6 @@
  
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/87338764/230532869-97cb5d94-cb73-45cb-875e-6a6389656086.jpg)
-
+<div>
+ <img src="https://drive.google.com/file/d/1mNMZ-NBlkyDkHwUUIr3J9lHT9DjiNfyp/view?usp=sharing">
+ </div>
