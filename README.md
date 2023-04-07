@@ -42,6 +42,8 @@
 
 -Repository Pattern
 
+-Navigation Component (Single Activity)
+
 -Firebase (auth using email and password, auth using google auth / Firebase firestore)
 
 -Retrofit
