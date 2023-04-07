@@ -35,18 +35,31 @@
 <img src="https://user-images.githubusercontent.com/87338764/230534809-dd757d68-02bf-4ff9-84a0-5943b4aaf364.jpg" width "250" height="350">
 </div>
 
-#Tools
+# Tools
 -Kotlin as programming language
+
 -MVVM Architecture pattern
+
 -Repository Pattern
--Firebase (auth using email and password, auth using google auth / Firebase firesdtore)
+
+-Firebase (auth using email and password, auth using google auth / Firebase firestore)
+
 -Retrofit
+
 -Room 
+
 -Kotlin Coroutines 
+
 -Flow
+
 -State flow 
+
 -Live Data
+
 -Data Store
+
 -Dagger hilt for di
+
 -Glide
+
 -SpinKit 
