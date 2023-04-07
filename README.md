@@ -27,8 +27,8 @@
 </div>
 
 <div>
-<img src="https://user-images.githubusercontent.com/87338764/230534784-246f2032-8dcc-4721-bc9d-5b7543dbf113.jpg" width "250" height="350">
-<img src="https://user-images.githubusercontent.com/87338764/230534784-246f2032-8dcc-4721-bc9d-5b7543dbf113.jpg" width "250" height="350">
+<img src="https://user-images.githubusercontent.com/87338764/230535973-5fe5d2b4-b310-486f-b253-eb8de5657980.jpg" width "250" height="350">
+<img src="https://user-images.githubusercontent.com/87338764/230535965-35b47c7b-992a-49c0-8719-82cb0cd03d02.jpg" width "250" height="350">
 <img src="https://user-images.githubusercontent.com/87338764/230534800-6974cdb8-40b8-4b22-b203-85eb5c7a4faa.jpg" width "250" height="350">
 <img src="https://user-images.githubusercontent.com/87338764/230534806-02f857f7-ab35-4137-a1c2-4c4b55bf23ef.jpg" width "250" height="350">
 <img src="https://user-images.githubusercontent.com/87338764/230534809-dd757d68-02bf-4ff9-84a0-5943b4aaf364.jpg" width "250" height="350">
