@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240125747029",
+    "project_id": "makeupstore-e9e1e",
+    "storage_bucket": "makeupstore-e9e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240125747029:android:a8eaaf5d9b6a73c99719dc",
+        "android_client_info": {
+          "package_name": "com.example.makeupstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240125747029-p07v4aaj7adndhqmj2ictnmqa7sub270.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeupstore",
+            "certificate_hash": "249209d1db175e4c55251d41058dcb4d19129dbb"
+          }
+        },
+        {
+          "client_id": "240125747029-lispln6j4tkp2ivufmmqra90s8sr1d1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XpLk21cdh625arsTkslqfZpHvbH24xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240125747029-lispln6j4tkp2ivufmmqra90s8sr1d1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

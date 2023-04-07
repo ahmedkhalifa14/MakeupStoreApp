@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottom_sheet_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/grey"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0.75dp"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:paddingVertical="10dp"
+        android:text="@string/evaluate_the_product"
+        android:fontFamily="@font/raleway_bold"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/bottom_sheet_comment"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_175sdp"
+        android:layout_marginBottom="0.75dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="Comment"
+        android:fontFamily="@font/raleway_regular"
+        android:paddingHorizontal="@dimen/_8sdp"
+        android:textSize="@dimen/_12ssp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <Button
+            android:id="@+id/bottom_sheet_send"
+            style="@style/button_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:text="Send"
+            android:fontFamily="@font/raleway_medium"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

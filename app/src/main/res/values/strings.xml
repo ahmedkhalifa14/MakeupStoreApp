@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MakeupStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price_label">Price:</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="next">next</string>
+    <string name="intro_skip">skip</string>
+    <string name="intro_title_1">Welcome to Our Makeup Store</string>
+    <string name="intro_description_1">Welcome to our makeup store! Find the perfect products to enhance your beauty and express your unique style</string>
+    <string name="intro_title_2">Discover Your Look</string>
+    <string name="intro_description_2">Discover your perfect look with our wide range of makeup products designed to enhance your natural beauty.</string>
+    <string name="intro_title_3">" Perfect Match for Your Skin"</string>
+    <string name="intro_description_3">Find the perfect match for your skin with our color-matching tools and personalized recommendations.</string>
+    <string name="intro_title_4">Hassle-Free Shopping</string>
+    <string name="intro_description_4">Enjoy free shipping on all orders and hassle-free returns for a stress-free shopping experience.</string>
+    <string name="intro_get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Signup</string>
+    <string name="sign_up_with_google">Sign up with google</string>
+    <string name="sign_up_with_facebook">Sign up with facebook</string>
+    <string name="or">OR</string>
+    <string name="no_cart_item_available">No cart items available</string>
+    <string name="no_fav_item_available">No Favourite items available</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="mi">Mi</string>
+    <string name="user_name">User name</string>
+    <string name="time">time</string>
+    <string name="comment">comment</string>
+    <string name="evaluate_the_product">Evaluate the Product</string>
+
+
+</resources>
